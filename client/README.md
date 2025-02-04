@@ -4,7 +4,7 @@
    
   ## Live Demo
 
-https://shoppy-globe.vercel.app/
+http://localhost:5173/
 
   ## Github Link
   
