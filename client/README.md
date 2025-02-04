@@ -8,19 +8,19 @@ https://shoppy-globe.vercel.app/
 
   ## Github Link
   
-  https://github.com/aadarshraj02/Shoppy-Globe
+  https://github.com/dhimansaurabh43/Shoppy-Globe.git
   
 ## Run Locally  
 Clone the project  
 
 ~~~bash  
-  git clone https://github.com/aadarshraj02/Shoppy-Globe
+  git clone https://github.com/dhimansaurabh43/Shoppy-Globe.git
 ~~~
 
 Go to the project directory  
 
 ~~~bash  
-  cd online-library-system
+  cd client
 ~~~
 
 Install dependencies  
